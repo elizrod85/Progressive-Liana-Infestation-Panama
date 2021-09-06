@@ -7,7 +7,7 @@ Rodriguez Ronderos, M. Elizabeth; Schnitzer, Stefan A. 2021. Progressive liana i
 
 
 
-These is the current clean data set: all dead and other outlier trees were removed. This is the final dataset with the one all the analyses were performed. 
+These is the current clean data set: all dead and other outlier trees were removed. This is the final dataset used for all the analyses. 
 
 ## Datafile descriptors
 GPS: Unique number for each tree.
