@@ -9,7 +9,7 @@ Rodriguez Ronderos, M. Elizabeth; Schnitzer, Stefan A. 2021. Progressive liana i
 
 These is the current clean data set: all dead and other outlier trees were removed. This is the final dataset used for all the analyses. 
 
-## Datafile descriptors
+## Columns in R
 GPS: Unique number for each tree.
 
 Species: Species code (Tipically 4 first letters of *Genus* followed by 2 first letters of the *epithet*). 
