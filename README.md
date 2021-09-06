@@ -1,7 +1,7 @@
 # Progressive-Liana-Infestation-Panama
 Dataset of selected trees with 7 different liana removal treatments. Panama 2012-2015
 
-These is the current clean data set with dead trees and other outlier trees removed and with the one all the analyses were performed. 
+These is the current clean data set: all dead and other outlier trees were removed. This is the final dataset with the one all the analyses were performed. 
 
 ## Datafile descriptors
 GPS: Unique number for each tree.
