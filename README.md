@@ -24,7 +24,7 @@ DATE_DendroREVM_1.2: Date of revision of the dentrometers (mm/dd/yr).
 
 DBHc_DendroREVM_1.2: Diameter calculated from increase of dendrometers (DBHc) at the time of the revision of dendrometers. 
 
-DATE_2 to DATE 8: Date (mm/dd/yr).
+DATE_2 to DATE_8: Date (mm/dd/yr).
 
 DBHc_AdjustIni: Diameter calculated from increase of dendrometers (DBHc) after the adjustment of all dendrometers.
 
