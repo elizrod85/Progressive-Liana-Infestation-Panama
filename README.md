@@ -7,7 +7,6 @@ These is the current clean data set: all dead and other outlier trees were remov
 GPS: Unique number for each tree.
 
 Species: Species code (Tipically 4 first letters of *Genus* followed by 2 first letters of the *epithet*). 
-
 LianaPercentageRemoval: Liana percentage removal treatment applied. 
 
 DATE_DendroInstall_1.1: Date when dendrometers were installed on trees (mm/dd/yr).
