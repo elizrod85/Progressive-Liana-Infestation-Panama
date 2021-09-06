@@ -1,6 +1,12 @@
 # Progressive-Liana-Infestation-Panama
 Dataset of selected trees with 7 different liana removal treatments. Panama 2012-2015
 
+
+## Citation
+Rodriguez Ronderos, M. Elizabeth; Schnitzer, Stefan A. 2021. Progressive liana infestation for target trees, Panama. Zenodo - Github Repository. DOI:
+
+
+
 These is the current clean data set: all dead and other outlier trees were removed. This is the final dataset with the one all the analyses were performed. 
 
 ## Datafile descriptors
